@@ -1,0 +1,28 @@
+{
+  "name": "node-red-contrib-sam-bot",
+  "version": "0.0.1",
+  "description": "SAMBot a bot that responds from facebook messanger to users",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guidone/node-red-contrib-chatbot.git"
+  },
+  "node-red": {
+    "nodes": {
+      "messanger-bot": "messanger-bot.js"
+    }
+  },
+  "maintainers": [
+    {
+      "name": "Sarath Chandra Bandaru",
+      "email": "sarathchandrabandaru@gmail.com"
+    },
+    {
+      "name": "TejaKiran Dogiparthi",
+      "email": "tejadogiparthi@gmail.com"
+    }
+  ],
+  "keywords": [
+    "node-red"
+  ],
+  "author": "Sarath Chandra Bandaru <sarathchandrabandaru@gmail.com>"
+}
